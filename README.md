@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalkAdel
-- 👩🏻‍💻 I’m a BIS student at Helwan University 
-- 💖 I’m currently learning UI/UX web design 
+- 👩🏻‍💻 I’m a BIS student at Helwan University.
+- 💖 I’m currently learning UI/UX web design.
 - 📫 reach me through malkadelmohamed06@gmail.com 
   
 
